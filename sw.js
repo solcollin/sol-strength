@@ -1,5 +1,5 @@
 /* Offline shell. All data is stored by app.js on the device, never in this cache. */
-const CACHE_NAME = 'sol-strength-shell-v1.0.0';
+const CACHE_NAME = 'sol-strength-shell-v3.0.0';
 const SHELL = [
   './', './index.html', './styles.css', './app.js', './manifest.webmanifest',
   './icon-192.png', './icon-512.png', './apple-touch-icon.png'

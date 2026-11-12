@@ -1,14 +1,13 @@
 {
   "name": "SOL STRENGTH",
   "short_name": "SOL STRENGTH",
-  "description": "Private, offline-first strength tracking and 5/3/1 programming.",
+  "description": "Private offline-first strength training log",
   "id": "./",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "display_override": ["standalone"],
-  "background_color": "#0b0e0b",
-  "theme_color": "#0b0e0b",
+  "background_color": "#101714",
+  "theme_color": "#101714",
   "orientation": "portrait-primary",
   "icons": [
     {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
